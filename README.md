@@ -13,7 +13,7 @@ Mi proyecto de tesis principal (Fondecyt Regular N°1250518) enfocado en las pre
 - **Tech stack:** R, Quarto.
 - **Estado:** En desarrollo activo.
 
-#### 📚 Consolidación de Métodos Cuantitativos
+#### 📚 [Consolidación de Métodos Cuantitativos](https://github.com/Cristobal-Mejias-G/metodos-cuantitativos-fagob)
 [Actualmente estoy centralizando mis recursos de docencia (Ayudantías del curso Métodos Computacionales para la Administración Pública) en un solo ecosistema para facilitar el aprendizaje de R en estudiantes de Administración Pública y Sociología.
 
 #### 🔍 Violencia Escolar (Próximamente)

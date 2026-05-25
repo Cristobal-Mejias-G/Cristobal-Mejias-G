@@ -1,8 +1,6 @@
-# ¡Hola! Soy Cristóbal Mejías 👋 🇨🇱
+# ¡Hola! Soy Cristóbal Mejías 
 
 Soy **Licenciado en Sociología** con una sólida formación en métodos cuantitativos y análisis de datos. Me especializo en transformar problemas complejos en decisiones basadas en evidencia mediante el uso de datos.
-
-Actualmente, compagino mi rol como **Tesista Fondecyt** con la docencia universitaria, mientras exploro nuevas fronteras en la intersección entre las ciencias sociales y las herramientas digitales.
 
 ---
 
